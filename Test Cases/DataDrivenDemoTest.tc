@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DataDrivenDemoTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>eb6b2fc8-b158-4756-b29d-088f39451bd1</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>af2226f7-5c42-42ad-963a-d922bff7511d</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Maki'</defaultValue>
+      <description></description>
+      <id>af2226f7-5c42-42ad-963a-d922bff7511d</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+</TestCaseEntity>
